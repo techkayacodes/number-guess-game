@@ -1,4 +1,4 @@
 # number-guess-game
 number guess game from MDN Docs --> Goal is to Debug Number Guessing Game
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Game-Image](https://github.com/techkayacodes/number-guess-game/blob/main/number-guess-game.png)
